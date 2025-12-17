@@ -15,6 +15,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## String
@@ -23,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +61,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
