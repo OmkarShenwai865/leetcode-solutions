@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0260-single-number-iii) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
