@@ -9,6 +9,7 @@
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -27,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
