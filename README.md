@@ -19,6 +19,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## String
