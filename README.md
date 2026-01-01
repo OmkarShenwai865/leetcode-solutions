@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3110-score-of-a-string) |
