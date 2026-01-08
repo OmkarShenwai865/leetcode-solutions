@@ -63,6 +63,7 @@
 | ------- |
 | [0078-subsets](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -116,6 +117,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
