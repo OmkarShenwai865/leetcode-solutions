@@ -21,6 +21,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -47,6 +48,7 @@
 | [0709-to-lower-case](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Sorting
