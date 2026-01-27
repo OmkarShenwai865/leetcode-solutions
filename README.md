@@ -20,6 +20,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -51,6 +52,7 @@
 | [0709-to-lower-case](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3110-score-of-a-string) |
