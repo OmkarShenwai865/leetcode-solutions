@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -66,6 +67,7 @@
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -136,14 +138,17 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -164,4 +169,16 @@
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
