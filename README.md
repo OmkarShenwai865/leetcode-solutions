@@ -90,6 +90,7 @@
 | [0190-reverse-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0868-binary-gap](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0868-binary-gap) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
