@@ -10,16 +10,6 @@ int count1bits(int n){
         return cnt;
 }
     vector<int> sortByBits(vector<int>& arr) {
-// int n = arr.size(); 
-// vector<int>res;
-// for(int i=0;i<n;i++){
-// int ans = count1bits(arr[i]);
-// res.push_back(ans);
-// }
-// sort(res.begin(),res.end());
-// return res;
-
-
 vector<pair<int,int>> temp;   // {bitCount, value}
 
         // Step 1: Traverse and store counts
