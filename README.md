@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0216-combination-sum-iii) |
