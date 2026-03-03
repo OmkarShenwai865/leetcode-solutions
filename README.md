@@ -68,6 +68,7 @@
 | [0709-to-lower-case](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Matrix
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
