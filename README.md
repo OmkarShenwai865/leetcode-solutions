@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Math
 |  |
@@ -133,6 +134,7 @@
 | [0022-generate-parentheses](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Queue
 |  |
 | ------- |
