@@ -106,6 +106,7 @@
 | [0260-single-number-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
