@@ -32,4 +32,5 @@ public:
         }
         return false;
     }
+    //2nd way - formula based: mat[i][j] = rot[n - j - 1][i];
 };
