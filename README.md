@@ -37,6 +37,7 @@
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -91,6 +92,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2942-find-words-containing-character](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -132,6 +134,7 @@
 | [0011-container-with-most-water](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
@@ -161,6 +164,7 @@
 | [0022-generate-parentheses](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Queue
@@ -245,6 +249,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -286,4 +291,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1622-fancy-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
