@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0806-number-of-lines-to-write-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -82,6 +83,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
