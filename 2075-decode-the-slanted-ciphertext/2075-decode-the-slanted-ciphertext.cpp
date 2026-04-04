@@ -10,6 +10,7 @@ public:
      res.reserve(n); //allocate n spaced memory
      for(int c=0;c<cols;c++){
         int r=0 , j =c;
+// Traverse diagonal (down-right) and collect characters(i.e 2D->1D index)
      while(r<rows && j<cols){
         res += encodedText[r*cols + j];
         r++;
