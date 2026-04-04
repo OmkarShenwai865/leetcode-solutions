@@ -95,6 +95,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -246,6 +247,7 @@
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Matrix
