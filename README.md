@@ -34,6 +34,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -212,6 +213,7 @@
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -219,6 +221,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
