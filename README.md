@@ -181,6 +181,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2544-alternating-digit-sum](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3783-mirror-distance-of-an-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
