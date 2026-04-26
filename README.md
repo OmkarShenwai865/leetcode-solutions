@@ -70,6 +70,7 @@
 | [0041-first-missing-positive](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -92,6 +93,7 @@
 | [0022-generate-parentheses](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
+| [0383-ransom-note](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
