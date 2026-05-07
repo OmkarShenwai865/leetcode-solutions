@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -180,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1390-four-divisors](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -287,6 +289,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
