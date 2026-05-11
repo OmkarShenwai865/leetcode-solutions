@@ -46,6 +46,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -287,6 +288,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
