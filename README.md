@@ -48,6 +48,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -87,6 +88,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -242,6 +244,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -251,6 +254,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Backtracking
 |  |
 | ------- |
