@@ -125,6 +125,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -188,6 +189,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -220,6 +222,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0396-rotate-function) |
+| [1871-jump-game-vii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2463-minimum-total-distance-traveled](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -338,6 +341,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Merge Sort
