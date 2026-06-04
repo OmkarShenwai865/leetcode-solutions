@@ -229,6 +229,7 @@
 | [2652-sum-multiples](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -243,6 +244,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3660-jump-game-ix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Queue
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
