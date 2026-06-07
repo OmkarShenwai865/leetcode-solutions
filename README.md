@@ -47,6 +47,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2463-minimum-total-distance-traveled](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -94,6 +95,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -400,4 +402,12 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
