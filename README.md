@@ -84,6 +84,7 @@
 | [3701-compute-alternating-sum](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [3379-transformed-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
