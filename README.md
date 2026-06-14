@@ -290,6 +290,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -437,4 +439,8 @@
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
