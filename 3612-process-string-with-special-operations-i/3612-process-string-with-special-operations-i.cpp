@@ -1,21 +1,8 @@
 class Solution {
 public:
-    string reverses(string s){
-        reverse(s.begin(),s.end());
-        return s;
-    }
-    string duplicate(string s){
-        int n = s.length();
-        string c = s;
-        for(int i=0;i<n;i++){
-            c.push_back(s[i]);
-        }
-        return c;
-    }
     string processStr(string s) {
-        int n = s.length();
         string result;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.length();i++){
             if(islower(s[i])){
                 result.push_back(s[i]);
             }
@@ -23,10 +10,10 @@ public:
                 result.pop_back();
             }
             else if(s[i]=='#'){
-                result = duplicate(result);
+                result = result + result;
             }
             else if(s[i]=='%'){
-            result = reverses(result);   
+            reverse(result.begin(),result.end());  
             }
         }
         return result;
