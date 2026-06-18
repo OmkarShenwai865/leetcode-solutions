@@ -231,6 +231,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0396-rotate-function) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
