@@ -99,6 +99,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -134,6 +135,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -284,6 +286,7 @@
 | [0383-ransom-note](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
