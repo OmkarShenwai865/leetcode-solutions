@@ -235,6 +235,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Queue
