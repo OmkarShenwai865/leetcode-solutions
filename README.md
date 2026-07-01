@@ -108,6 +108,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -149,6 +150,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -183,6 +185,7 @@
 | [1200-minimum-absolute-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -220,6 +223,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
