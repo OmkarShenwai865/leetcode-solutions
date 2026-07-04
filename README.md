@@ -92,6 +92,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Bucket Sort
 |  |
 | ------- |
