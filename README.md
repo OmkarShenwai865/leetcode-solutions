@@ -28,6 +28,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -186,6 +187,7 @@
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
