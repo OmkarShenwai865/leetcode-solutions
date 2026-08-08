@@ -118,6 +118,7 @@
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -166,6 +167,7 @@
 | [1980-find-unique-binary-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -328,6 +330,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
