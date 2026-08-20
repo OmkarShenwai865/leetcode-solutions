@@ -547,4 +547,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
