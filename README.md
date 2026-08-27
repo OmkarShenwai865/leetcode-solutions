@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -202,6 +203,7 @@
 | [0179-largest-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -408,6 +410,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
