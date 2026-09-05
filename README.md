@@ -103,6 +103,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3904-smallest-stable-index-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
