@@ -295,6 +295,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0836-rectangle-overlap](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1622-fancy-sequence) |
@@ -584,4 +585,8 @@
 | [0584-find-customer-referee](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
