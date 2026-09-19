@@ -586,6 +586,7 @@
 | [0595-big-countries](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1075-project-employees-i) |
 ## Geometry
 |  |
 | ------- |
