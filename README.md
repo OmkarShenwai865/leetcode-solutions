@@ -36,6 +36,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -512,6 +513,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
