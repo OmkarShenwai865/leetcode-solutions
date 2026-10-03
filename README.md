@@ -25,6 +25,7 @@
 | [0396-rotate-function](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0912-sort-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -123,6 +124,7 @@
 | [0383-ransom-note](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
