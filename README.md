@@ -339,6 +339,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -485,6 +486,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3379-transformed-array](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/OmkarShenwai865/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
